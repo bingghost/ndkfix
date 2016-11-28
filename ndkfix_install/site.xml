@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.bingghost.ndkfix.install_1.0.0.201611282117.jar" id="org.bingghost.ndkfix.install" version="1.0.0.201611282117">
+      <category name="ndk_fix"/>
+   </feature>
+   <category-def name="ndk_fix" label="ndkfix Category"/>
+</site>

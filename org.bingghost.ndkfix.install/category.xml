@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.bingghost.ndkfix.install_1.0.0.qualifier.jar" id="org.bingghost.ndkfix.install" version="1.0.0.qualifier"/>
+</site>
