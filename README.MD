@@ -12,6 +12,13 @@
 	传送门:
 	http://www.cnblogs.com/bingghost/p/6114301.html
 	
+### 更新说明
+	1. 我编译插件Eclipse版本过高,低版本安装不向上兼容, 所以增加jar包方式
+	用法:
+		java -jar ndkfix.jar [project root path]
+	
+	jar下载在github根目录
+	
 
 ### 下载地址
 	见git工程根目录zip
